@@ -1,0 +1,34 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+header nav{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+nav li {
+    text-decoration: none;
+    list-style:none;
+    margin-left: 50px;
+    color: white;
+}
+a{
+    display: flex;
+    position: relative;
+    left: 800px;
+    
+}
+h3{
+    margin-top: 20px;
+}
+input{
+    margin-top: 15px;
+    width: 60%;
+    padding: 10px;
+}
+#btn{
+    width: 100px;
+    padding: 8px;
+}
